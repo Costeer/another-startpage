@@ -6,6 +6,8 @@ do you whant to create your own????????????????????????????
 
 then follow this tutorial!!!!!!!!
 
+**if you whant to start with my theming i recomend forking this repo instead of starting from scratch**
+
 https://github.com/PrettyCoffee/yet-another-generic-startpage
 
 :3
